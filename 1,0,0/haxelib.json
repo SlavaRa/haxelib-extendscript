@@ -1,0 +1,11 @@
+{
+  "name": "jsx",
+  "license": "LGPL",
+  "tags": [""],
+  "description": "",
+  "contributors": ["SlavaRa", "nujond"],
+  "releasenote": "",
+  "version": "1.0.0",
+  "url": "https://github.com/SlavaRa/jsx",
+  "dependencies": {}
+}
