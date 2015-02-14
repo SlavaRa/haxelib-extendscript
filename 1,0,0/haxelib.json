@@ -1,11 +1,11 @@
 {
   "name": "jsx",
   "license": "LGPL",
-  "tags": [""],
-  "description": "",
+  "tags": ["ExtendScript"],
+  "description": "Externs for the ExtendScript API",
   "contributors": ["SlavaRa", "nujond"],
   "releasenote": "",
   "version": "1.0.0",
-  "url": "https://github.com/SlavaRa/jsx",
+  "url": "https://github.com/SlavaRa/haxelib-jsx",
   "dependencies": {}
 }
