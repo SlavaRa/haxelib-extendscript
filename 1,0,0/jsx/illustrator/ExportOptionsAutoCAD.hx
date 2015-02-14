@@ -3,7 +3,8 @@ package jsx.illustrator;
 /*
  * Options which may be supplied when exporting a document to AutoCAD formats &amp;&#35;40;.dwg or .dxf&#41;
  */
-typedef ExportOptionsAutoCAD = {
+@:native("ExportOptionsAutoCAD") extern class ExportOptionsAutoCAD {
+  function new();
   /*
    * Which format to export the file as.
    */

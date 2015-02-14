@@ -3,7 +3,8 @@ package jsx.illustrator;
 /*
  * Options which may be supplied when exporting a document as a TIFF file.
  */
-typedef ExportOptionsTIFF = {
+@:native("ExportOptionsTIFF") extern class ExportOptionsTIFF {
+  function new();
   /*
    * The color space of the exported file.
    */

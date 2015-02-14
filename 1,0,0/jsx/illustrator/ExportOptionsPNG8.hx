@@ -3,7 +3,8 @@ package jsx.illustrator;
 /*
  * Options which may be supplied when exporting a document as an 8 bit PNG file.
  */
-typedef ExportOptionsPNG8 = {
+@:native("ExportOptionsPNG8") extern class ExportOptionsPNG8 {
+  function new();
   /*
    * Number of colors in exported color table.
    */

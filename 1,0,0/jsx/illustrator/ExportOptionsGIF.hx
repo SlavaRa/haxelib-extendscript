@@ -3,7 +3,8 @@ package jsx.illustrator;
 /*
  * Options which may be supplied when exporting a document as a GIF file.
  */
-typedef ExportOptionsGIF = {
+@:native("ExportOptionsGIF") extern class ExportOptionsGIF {
+  function new();
   /*
    * Number of colors in exported color table.
    */

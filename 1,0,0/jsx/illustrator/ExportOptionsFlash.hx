@@ -3,7 +3,8 @@ package jsx.illustrator;
 /*
  * Options which may be supplied when exporting a document as an Flash &amp;&#35;40;.SWF&#41; file.
  */
-typedef ExportOptionsFlash = {
+@:native("ExportOptionsFlash") extern class ExportOptionsFlash {
+  function new();
   /*
    * How should the Flash file be created.
    */

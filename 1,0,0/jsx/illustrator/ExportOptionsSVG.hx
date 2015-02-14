@@ -3,7 +3,8 @@ package jsx.illustrator;
 /*
  * Options which may be supplied when exporting a document as an SVG file.
  */
-typedef ExportOptionsSVG = {
+@:native("ExportOptionsSVG") extern class ExportOptionsSVG {
+  function new();
   /*
    * The version of DTD that the exported file should be conforming to.
    */

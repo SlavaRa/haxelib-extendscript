@@ -3,7 +3,8 @@ package jsx.illustrator;
 /*
  * Options which may be supplied when exporting a document as a Photoshop file.
  */
-typedef ExportOptionsPhotoshop = {
+@:native("ExportOptionsPhotoshop") extern class ExportOptionsPhotoshop {
+  function new();
   /*
    * The color space of the exported file.
    */

@@ -3,7 +3,8 @@ package jsx.illustrator;
 /*
  * Options which may be supplied when exporting a document as a JPEG file.
  */
-typedef ExportOptionsJPEG = {
+@:native("ExportOptionsJPEG") extern class ExportOptionsJPEG {
+  function new();
   /*
    * Quality of resulting image.
    */
