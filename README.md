@@ -1,4 +1,3 @@
 jsx
 ===
-
-Externs for the Illustrator 2014 js API.
+Externs for the ExtendScript API.
