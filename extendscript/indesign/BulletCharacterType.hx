@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * Bullet character type.

@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * Watermark horizontal position enum type.

@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * Transform preferences.

@@ -1,4 +1,4 @@
-package jsx.illustrator;
+package extendscript.illustrator;
 
 /*
  * Controls the type of antialiasing method used in the rasterization.

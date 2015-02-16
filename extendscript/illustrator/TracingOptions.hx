@@ -1,4 +1,4 @@
-package jsx.illustrator;
+package extendscript.illustrator;
 
 /*
  * Tracing options that guide the tracing process.

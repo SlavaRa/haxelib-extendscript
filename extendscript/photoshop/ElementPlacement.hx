@@ -1,4 +1,4 @@
-package jsx.photoshop;
+package extendscript.photoshop;
 
 /*
  * Controls where Photoshop places an element.

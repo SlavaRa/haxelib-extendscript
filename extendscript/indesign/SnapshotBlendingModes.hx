@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * Modes that control which nearby snapshots, by size and shape, are blended into the new layout.

@@ -1,4 +1,4 @@
-package jsx.scriptui;
+package extendscript.scriptui;
 
 /*
  * Encapsulates a set of images that can be drawn into a control.

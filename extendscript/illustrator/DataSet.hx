@@ -1,4 +1,4 @@
-package jsx.illustrator;
+package extendscript.illustrator;
 
 /*
  * A set of variables and their associated dynamic data which will be used for dynamic publishing.

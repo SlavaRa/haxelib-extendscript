@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * The reference point on the object&apos;s bounding box that does not move during transformation operations. Note: Transformations include rotation, scaling, flipping, and shearing.

@@ -1,4 +1,4 @@
-package jsx.photoshop;
+package extendscript.photoshop;
 
 /*
  * The export options to use.

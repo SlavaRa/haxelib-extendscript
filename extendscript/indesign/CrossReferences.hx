@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * A collection of index cross references. &amp;&#35;40;For cross references in text, use the &apos;cross reference source' and 'hyperlink' objects.&#41;

@@ -1,4 +1,4 @@
-package jsx.photoshop;
+package extendscript.photoshop;
 
 /*
  * Options to define for the preferences property of the application object, basically equivalent to selecting Edit&amp;gt;Preferences &amp;&#35;40;Windows&#41; or Photoshop&amp;gt;Preferences in the Adobe Photoshop application.

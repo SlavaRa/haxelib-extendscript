@@ -1,4 +1,4 @@
-package jsx.photoshop;
+package extendscript.photoshop;
 
 /*
  * The type of compression to use when saving a document in PDF format.

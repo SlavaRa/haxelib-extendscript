@@ -1,4 +1,4 @@
-package jsx.illustrator;
+package extendscript.illustrator;
 
 /*
  * The version of the SVG DTD.

@@ -1,4 +1,4 @@
-package jsx.photoshop;
+package extendscript.photoshop;
 
 /*
  * The distribution method to use when applying an Add Noise filter.

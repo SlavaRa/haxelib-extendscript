@@ -1,4 +1,4 @@
-package jsx.illustrator;
+package extendscript.illustrator;
 
 /*
  * What fonts to include with the file?

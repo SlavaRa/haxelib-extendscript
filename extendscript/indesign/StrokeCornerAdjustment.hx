@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * The automatic adjustment to make to the pattern of a dashed or dotted stroke to cover corner points in a path.

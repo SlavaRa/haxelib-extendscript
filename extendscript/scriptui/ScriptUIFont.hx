@@ -1,4 +1,4 @@
-package jsx.scriptui;
+package extendscript.scriptui;
 
 /*
  * Encapsulates the qualities of a font used to draw text into a control.

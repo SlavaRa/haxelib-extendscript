@@ -1,4 +1,4 @@
-package jsx.illustrator;
+package extendscript.illustrator;
 
 /*
  * Method used to dither colors for PNG8 and GIF export formats.

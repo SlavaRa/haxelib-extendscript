@@ -1,4 +1,4 @@
-package jsx.photoshop;
+package extendscript.photoshop;
 
 /*
  * Camera raw image file settings stored in an XMP file in the same folder as the raw file with the same base name and an XMP extension.

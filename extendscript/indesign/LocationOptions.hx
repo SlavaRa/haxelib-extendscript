@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * Options for specifying location relative to the reference object or within the containing object.

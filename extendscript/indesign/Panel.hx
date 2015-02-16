@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * A panel &amp;&#35;40;possibly within a panel group&#41;.

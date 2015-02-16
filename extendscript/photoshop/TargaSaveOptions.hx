@@ -1,4 +1,4 @@
-package jsx.photoshop;
+package extendscript.photoshop;
 
 /*
  * Options for saving a document in TGA &amp;&#35;40;Targa&#41; format.

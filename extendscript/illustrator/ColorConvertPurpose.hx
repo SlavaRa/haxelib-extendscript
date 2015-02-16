@@ -1,4 +1,4 @@
-package jsx.illustrator;
+package extendscript.illustrator;
 
 /*
  * Denotes the purpose of color conversion using ConvertSmapleColor method.

@@ -1,4 +1,4 @@
-package jsx.scriptui;
+package extendscript.scriptui;
 
 /*
  * A scrollbar with a draggable scroll indicator and stepper buttons to move the indicator.

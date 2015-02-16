@@ -1,4 +1,4 @@
-package jsx.photoshop;
+package extendscript.photoshop;
 
 /*
  * Metadata about a document object. These values can be set by selecting File&amp;gt;File Info in the Adobe Photoshop application.

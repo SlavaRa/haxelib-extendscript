@@ -1,4 +1,4 @@
-package jsx.scriptui;
+package extendscript.scriptui;
 
 /*
  * Defines the location of a window or UI element. Contains a 2-element array.

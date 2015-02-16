@@ -1,11 +1,10 @@
-package jsx;
+package extendscript;
 
-/*
- * @constructor
- * @param {String} arguments The list of formal arguments, separated by commas.
- * @param {String} body The body of the function to create.
- */
 @:native("Function") extern class Function {
+  /*
+   * @param {String} arguments The list of formal arguments, separated by commas.
+   * @param {String} body The body of the function to create.
+   */
   public function new(arguments:String, body:String);
   /*
    * The function arguments, packed into an array.

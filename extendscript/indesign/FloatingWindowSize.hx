@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * The size of the movie&apos;s floating window. Valid only when floating window is true.

@@ -1,4 +1,4 @@
-package jsx.scriptui;
+package extendscript.scriptui;
 
 /*
  * Defines the boundaries of a window within the screen’s coordinate space, or of a UI element within the container’s coordinate space.

@@ -1,4 +1,4 @@
-package jsx.scriptui;
+package extendscript.scriptui;
 
 /*
  * A global class containing central information about ScriptUI. Not instantiable.

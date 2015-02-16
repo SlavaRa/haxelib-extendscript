@@ -1,4 +1,4 @@
-package jsx.photoshop;
+package extendscript.photoshop;
 
 /*
  * The lighting conditions &amp;&#35;40;affects color balance&#41;.

@@ -1,4 +1,4 @@
-package jsx;
+package extendscript;
 
 /*
  * The $ object provides a number of debugging facilities and informational methods.

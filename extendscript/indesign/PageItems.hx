@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * The page items collection, which can be used to process all page items in a container &amp;&#35;40;such as a document, page, or group&#41;, regardless of type.

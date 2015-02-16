@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * The type of conflict resolution to employ during Version Cue synchronization.

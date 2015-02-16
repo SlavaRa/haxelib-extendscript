@@ -1,4 +1,4 @@
-package jsx.photoshop;
+package extendscript.photoshop;
 
 /*
  * The active containment object for the layers and all other objects in the script; the basic canvas for the file.

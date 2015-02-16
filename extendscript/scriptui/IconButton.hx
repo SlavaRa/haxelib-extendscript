@@ -1,4 +1,4 @@
-package jsx.scriptui;
+package extendscript.scriptui;
 
 /*
  * A  mouse-sensitive pushbutton that displays an image instead of text.

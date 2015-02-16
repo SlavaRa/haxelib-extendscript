@@ -1,4 +1,4 @@
-package jsx.scriptui;
+package extendscript.scriptui;
 
 /*
  * Displays a single visible item. When you click the control, a list drops down or pops up, and allows you to select one of the other items in the list.

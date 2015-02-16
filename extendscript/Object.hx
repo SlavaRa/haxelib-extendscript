@@ -1,11 +1,10 @@
-package jsx;
+package extendscript;
 
-/*
- * Creates and returns a new object of a given type.
- * @constructor
- * @param {any} what The object type.
- */
 @:native("Object") extern class Object {
+  /*
+   * Creates and returns a new object of a given type.
+   * @param {any} what The object type.
+   */
   public function new(what:Dynamic);
   /*
    * Points to the prototype object for this object.

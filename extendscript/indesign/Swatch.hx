@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * A swatch &amp;&#35;40;color, gradient, tint, or Dynamic ink&#41;.

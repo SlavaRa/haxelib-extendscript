@@ -1,4 +1,4 @@
-package jsx.photoshop;
+package extendscript.photoshop;
 
 /*
  * A version of the document stored automatically &amp;&#35;40;and added to the history states collection, which preserves the document state each time the document is changed&#41;.

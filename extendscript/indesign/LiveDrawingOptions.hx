@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * Live drawing options for when user mouse actions trigger live screen drawing of page items.

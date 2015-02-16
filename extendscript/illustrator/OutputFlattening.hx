@@ -1,4 +1,4 @@
-package jsx.illustrator;
+package extendscript.illustrator;
 
 /*
  * How should transparency be flattened for pre-AI9 file formats.

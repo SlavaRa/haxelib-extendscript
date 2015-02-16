@@ -1,5 +1,5 @@
-package jsx.illustrator;
-import jsx.photoshop.ElementPlacement;
+package extendscript.illustrator;
+import extendscript.photoshop.ElementPlacement;
 
 /*
  * Raster artwork item.

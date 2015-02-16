@@ -1,4 +1,4 @@
-package jsx.photoshop;
+package extendscript.photoshop;
 
 /*
  * The method to use to treat undistorted areas or areas left blank in an image to which a filter in the Distort category has been applied.

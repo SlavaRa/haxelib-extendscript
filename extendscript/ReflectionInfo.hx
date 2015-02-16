@@ -1,4 +1,4 @@
-package jsx;
+package extendscript;
 
 /*
  * Provides information about a method, a property or a method parameters.

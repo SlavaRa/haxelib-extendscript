@@ -1,4 +1,4 @@
-package jsx.photoshop;
+package extendscript.photoshop;
 
 /*
  * A snapshot of a state of the layers in a document &amp;&#35;40;can be used to view different page layouts or compostions&#41;.

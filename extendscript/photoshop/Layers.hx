@@ -1,4 +1,4 @@
-package jsx.photoshop;
+package extendscript.photoshop;
 
 /*
  * The collection of layer objects, including art layer and layer set objects, in the document.

@@ -1,11 +1,10 @@
-package jsx;
+package extendscript;
 
-/*
- * Creates and returns a new File object referring to a given file system location.
- * @constructor
- * @param {String} [path] The full or partial path name of the file,  in platform-specific or URI format.
- */
 @:native("File") extern class File {
+  /*
+   * Creates and returns a new File object referring to a given file system location.
+   * @param {String} [path] The full or partial path name of the file,  in platform-specific or URI format.
+   */
   public function new(path:String);
   /*
    * The name of the file system.

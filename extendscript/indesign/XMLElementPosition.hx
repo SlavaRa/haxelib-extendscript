@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * Options for specifying position relative to the reference XML element or withing the XML element.

@@ -1,4 +1,4 @@
-package jsx.scriptui;
+package extendscript.scriptui;
 
 /*
  * A dual-state control, grouped with other radiobuttons, of which only one can be in the selected state.

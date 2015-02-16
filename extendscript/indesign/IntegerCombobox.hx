@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * An integer entry control featuring both a pop-up menu and an entry field. Note: .5 is rounded up.

@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * An imported graphic in any graphic file format &amp;&#35;40;including vector, metafile, and bitmap formats&#41;.

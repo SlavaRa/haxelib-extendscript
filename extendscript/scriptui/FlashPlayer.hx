@@ -1,4 +1,4 @@
-package jsx.scriptui;
+package extendscript.scriptui;
 
 /*
  * A control that contains a Flash Player, which can load and play Flash movies stored in SWF files.

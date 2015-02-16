@@ -1,4 +1,4 @@
-package jsx;
+package extendscript;
 
 /*
  * Represents a measurement as a combination of values and unit.

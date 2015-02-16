@@ -1,4 +1,4 @@
-package jsx.photoshop;
+package extendscript.photoshop;
 
 /*
  * A group of layer objects, which can include art layer objects and other &amp;&#35;40;nested&#41; layer set objects. A single command or set of commands manipulates all layers in a layer set object.

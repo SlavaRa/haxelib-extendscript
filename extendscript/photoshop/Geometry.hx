@@ -1,4 +1,4 @@
-package jsx.photoshop;
+package extendscript.photoshop;
 
 /*
  * Geometric options for shapes, such as the iris shape in the Lens Blur Filter.

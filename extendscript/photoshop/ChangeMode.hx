@@ -1,4 +1,4 @@
-package jsx.photoshop;
+package extendscript.photoshop;
 
 /*
  * The destination color mode. Note: Color images must be changed to Grayscale mode before you can change them to Bitmap mode.

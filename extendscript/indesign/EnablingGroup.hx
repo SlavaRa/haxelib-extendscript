@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * A bordered panel that contains an enabling checkbox. A user makes the enabling group active or inactive by clicking the checkbox. An enabling group can contain any type and number of controls.

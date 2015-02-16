@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * A high-precision numeric entry control featuring both a pop-up menu and an entry field.

@@ -1,4 +1,4 @@
-package jsx.photoshop;
+package extendscript.photoshop;
 
 /*
  * The shape of the dots &amp;&#35;40;ink deposits&#41; in the halftone screen.

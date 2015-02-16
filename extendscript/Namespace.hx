@@ -1,12 +1,11 @@
-package jsx;
+package extendscript;
 
-/*
- * Creates a Namespace object.
- * @constructor
- * @param {any} prefix undefined
- * @param {String} [uri] The URI if the prefix is specified as a string.
- */
 @:native("Namespace") extern class Namespace {
+  /*
+   * Creates a Namespace object.
+   * @param {any} prefix undefined
+   * @param {String} [uri] The URI if the prefix is specified as a string.
+   */
   public function new(prefix:Dynamic, uri:String);
   /*
    * The named prefix.

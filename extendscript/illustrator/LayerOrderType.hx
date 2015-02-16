@@ -1,4 +1,4 @@
-package jsx.illustrator;
+package extendscript.illustrator;
 
 typedef LayerOrderType = {
   var BOTTOMUP:Int;

@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * A state &amp;&#35;40;states define the display of the field in an exported PDF or SWF&#41;.

@@ -1,4 +1,4 @@
-package jsx.photoshop;
+package extendscript.photoshop;
 
 /*
  * An object within a document that contains the visual elements of the image &amp;&#35;40;equivalent to a layer in the Adobe Photoshop application&#41;.

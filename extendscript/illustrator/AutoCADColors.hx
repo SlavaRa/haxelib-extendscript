@@ -1,4 +1,4 @@
-package jsx.illustrator;
+package extendscript.illustrator;
 
 typedef AutoCADColors = {
   var Max8Colors:Int;

@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * Input method editor &amp;&#35;40;IME&#41; preferences.

@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * The flag indicating whether the rule is disabled, set for error, warning, or just informational.

@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * Generic term for an object in a dialog column or dialog row, including dialog controls such as radio button groups, checkboxes, editboxes, dropdowns, and comboboxes; static text objects; enabling groups; border panels; and nested dialog columns and dialog rows. For information, see dialog column, dialog row, static text, border panel, enabling group, radiobutton group, checkbox control, angle editbox, angle combobox, integer editbox, integer combobox, measurement editbox, measurement combobox, percent editbox, percent combobox, real editbox, real combobox, and text editbox.

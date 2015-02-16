@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * The color-rendering dictionary &amp;&#35;40;CRD&#41; to use.

@@ -1,4 +1,4 @@
-package jsx.photoshop;
+package extendscript.photoshop;
 
 /*
  * The application&apos;s behavior regarding image previews and file extensions when a save method is called.

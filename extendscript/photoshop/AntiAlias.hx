@@ -1,4 +1,4 @@
-package jsx.photoshop;
+package extendscript.photoshop;
 
 /*
  * The method to use to smooth edges by softening the color transition between edge pixels and background pixels.

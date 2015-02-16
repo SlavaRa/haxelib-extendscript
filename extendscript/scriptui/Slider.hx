@@ -1,4 +1,4 @@
-package jsx.scriptui;
+package extendscript.scriptui;
 
 /*
  * A slider bar that indicates a numeric value with a moveable position indicator.

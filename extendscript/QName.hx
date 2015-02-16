@@ -1,12 +1,11 @@
-package jsx;
+package extendscript;
 
-/*
- * Creates a QName object.
- * @constructor
- * @param {any} uri undefined
- * @param {String} [name] The local name. Used only if URI is given as a string.
- */
 @:native("QName") extern class QName {
+  /*
+   * Creates a QName object.
+   * @param {any} uri undefined
+   * @param {String} [name] The local name. Used only if URI is given as a string.
+   */
   public function new(uri:Dynamic, name:String);
   /*
    * The URI part of the qualified name.

@@ -1,4 +1,4 @@
-package jsx.photoshop;
+package extendscript.photoshop;
 
 /*
  * A path or drawing object, such as the outline of a shape or a straight or curved line, which contains sub paths that comprise its geometry.

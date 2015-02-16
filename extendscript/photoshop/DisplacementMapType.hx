@@ -1,4 +1,4 @@
-package jsx.photoshop;
+package extendscript.photoshop;
 
 /*
  * Describes how the displacement map fits the image if the image is not the same size as the map.

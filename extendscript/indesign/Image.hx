@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * An imported bitmap image in any bitmap file format &amp;&#35;40;including TIFF, JPEG, or GIF&#41;.

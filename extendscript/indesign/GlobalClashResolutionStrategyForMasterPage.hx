@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * Resolution options when loaded master pages have the same name as existing masterpages.

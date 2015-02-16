@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * A mapping object that maps a style &amp;&#35;40;paragraph, character, table, or cell&#41; to an XML tag.

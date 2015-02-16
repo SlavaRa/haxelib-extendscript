@@ -1,4 +1,4 @@
-package jsx;
+package extendscript;
 
 /*
  * An XML list object.

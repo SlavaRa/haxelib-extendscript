@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * The horizontal alignment of an anchored object. Not valid when anchored position is inline.

@@ -1,4 +1,4 @@
-package jsx.illustrator;
+package extendscript.illustrator;
 
 /*
  * Tab stop information &amp;&#35;40;returned by tab stops from a paragraph object&#41;

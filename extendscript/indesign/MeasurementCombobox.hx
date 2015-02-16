@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * A measurement entry control featuring both a pop-up menu and an entry field.

@@ -1,4 +1,4 @@
-package jsx.illustrator;
+package extendscript.illustrator;
 
 /*
  * Options which may be supplied when capturing a portion of the artwork as an 24 bit PNG file.

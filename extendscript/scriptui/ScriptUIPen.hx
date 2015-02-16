@@ -1,4 +1,4 @@
-package jsx.scriptui;
+package extendscript.scriptui;
 
 /*
  * A drawing pen that defines a color and line width used to stroke paths.

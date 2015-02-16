@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * The resolution strategy to employ for imported styles that have the same names as existing styles.

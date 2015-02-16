@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * A bordered panel on a dialog that can contain any type and number of controls.

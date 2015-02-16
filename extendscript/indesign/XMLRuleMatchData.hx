@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * An XML element matched by a rule or rules in the current XML rule set.

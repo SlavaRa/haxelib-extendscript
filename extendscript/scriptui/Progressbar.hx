@@ -1,4 +1,4 @@
-package jsx.scriptui;
+package extendscript.scriptui;
 
 /*
  * A horizontal bar with an indicator that shows the progress of an operation.

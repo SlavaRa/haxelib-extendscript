@@ -1,4 +1,4 @@
-package jsx.photoshop;
+package extendscript.photoshop;
 
 /*
  * The method to use to fill the empty space left by offsetting a an image or selection.

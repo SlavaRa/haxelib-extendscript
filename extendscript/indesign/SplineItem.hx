@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * A path-based page item, such as a rectangle, oval, polygon, or graphic line.

@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * An item on a page, including rectangles, ellipses, graphic lines, polygons, groups, text frames, and buttons.

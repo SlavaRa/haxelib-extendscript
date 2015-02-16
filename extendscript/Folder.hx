@@ -1,11 +1,10 @@
-package jsx;
+package extendscript;
 
-/*
- * Creates and returns a new Folder object referring to a given file-system location.
- * @constructor
- * @param {String} [path] The absolute or relative path to the folder associated with this object, specified in URI format.
- */
 @:native("Folder") extern class Folder {
+  /*
+   * Creates and returns a new Folder object referring to a given file-system location.
+   * @param {String} [path] The absolute or relative path to the folder associated with this object, specified in URI format.
+   */
   public function new(path:String);
   /*
    * The name of the current file system.

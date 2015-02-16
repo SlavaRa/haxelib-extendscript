@@ -1,12 +1,11 @@
-package jsx;
+package extendscript;
 
-/*
- * Creates and returns a new RegExp object set to the value of the argument converted to a regular expression.
- * @constructor
- * @param {String} pattern The pattern to convert.
- * @param {String} [flags] Flags that control how the conversion is performed.
- */
 @:native("RegExp") extern class RegExp {
+  /*
+   * Creates and returns a new RegExp object set to the value of the argument converted to a regular expression.
+   * @param {String} pattern The pattern to convert.
+   * @param {String} [flags] Flags that control how the conversion is performed.
+   */
   public function new(pattern:String, flags:String);
   /*
    * The matched subexpression &#35;1.

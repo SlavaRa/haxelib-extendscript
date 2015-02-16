@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * A numeric entry field that rounds to the nearest whole number. Note: .5 is rounded up.

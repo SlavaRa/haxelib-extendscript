@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * A static text control &amp;&#35;40;typically a label for another control or a set of controls&#41;.

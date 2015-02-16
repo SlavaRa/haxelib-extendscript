@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * The amount and type of compression to apply to monochrome bitmap images.

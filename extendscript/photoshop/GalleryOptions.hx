@@ -1,4 +1,4 @@
-package jsx.photoshop;
+package extendscript.photoshop;
 
 /*
  * Deprecated for Adobe Photoshop CS3, the make photo gallery method has moved to Bridge.

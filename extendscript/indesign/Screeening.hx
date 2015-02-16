@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * Options for ink screening for composite gray output in PostScript or PDF format.

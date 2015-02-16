@@ -1,4 +1,4 @@
-package jsx;
+package extendscript;
 
 /*
  * The global methods and properties for ExtendScript.

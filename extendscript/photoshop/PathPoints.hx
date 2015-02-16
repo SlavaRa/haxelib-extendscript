@@ -1,4 +1,4 @@
-package jsx.photoshop;
+package extendscript.photoshop;
 
 /*
  * A collection of path point objects that comprises the path points property of the sub path item object.

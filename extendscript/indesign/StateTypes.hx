@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * Options for specifying the events &amp;&#35;40;user actions&#41; that change a button&apos;s state.

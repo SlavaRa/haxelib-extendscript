@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * A degree entry control featuring both a pop-up menu and and entry field.

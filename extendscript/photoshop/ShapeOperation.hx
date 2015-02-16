@@ -1,4 +1,4 @@
-package jsx.photoshop;
+package extendscript.photoshop;
 
 /*
  * Specifies how to combine the shapes if the destination image already has a selection.

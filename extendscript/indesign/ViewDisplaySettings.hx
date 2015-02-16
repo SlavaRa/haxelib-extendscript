@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * Options for display performance settings, which influence the speed and quality with which an object draws and redraws.

@@ -1,11 +1,10 @@
-package jsx;
+package extendscript;
 
-/*
- * Parses an XML string. Throws an error if the XML is incorrect.
- * @constructor
- * @param {String} text The text to parse.
- */
 @:native("XML") extern class XML {
+  /*
+   * Parses an XML string. Throws an error if the XML is incorrect.
+   * @param {String} text The text to parse.
+   */
   public function new(text:String);
   /*
    * Controls whether XML comments should be parsed (false) or ignored (true).

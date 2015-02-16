@@ -1,4 +1,4 @@
-package jsx.scriptui;
+package extendscript.scriptui;
 
 /*
  * A painting brush that encapsulates a color or pattern used to fill paths.

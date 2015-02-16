@@ -1,4 +1,4 @@
-package jsx.photoshop;
+package extendscript.photoshop;
 
 /*
  * A counted item in the document. The count item feature is available in the Extended Version only.

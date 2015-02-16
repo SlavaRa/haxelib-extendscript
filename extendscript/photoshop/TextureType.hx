@@ -1,4 +1,4 @@
-package jsx.photoshop;
+package extendscript.photoshop;
 
 /*
  * The type of texture or glass surface image to load for a texturizer or glass filter.

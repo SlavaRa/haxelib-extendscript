@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * The color profile policy for placed vector files &amp;&#35;40;PDF or EPS&#41;.

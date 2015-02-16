@@ -1,10 +1,10 @@
-package jsx;
+package extendscript;
 
-/*
- * Creates a new Socket object.
- * @constructor
- */
 @:native("Socket") extern class Socket {
+  /*
+   * Creates a new Socket object.
+   * @constructor
+   */
   public function new(;
   /*
    * The name of the remote computer when a connection is established.

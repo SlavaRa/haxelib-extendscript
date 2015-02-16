@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * Options for specifying the amount of vertical space between the top of the footnote container and the first line of footnote text.

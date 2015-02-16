@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * A polygon. Any shape that is not a rectangle, ellipse, or graphic line. When you add a polygon, InDesign creates a regular polygon based on the current polygon preferences settings.

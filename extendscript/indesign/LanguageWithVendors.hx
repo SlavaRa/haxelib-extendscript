@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * A language that allows the specification of a hyphenation rules source, a spell-checking source, and a thesaurus.

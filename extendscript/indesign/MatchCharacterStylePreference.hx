@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * The preferences for a running header/footer &amp;&#35;40;match character style&#41; variable.

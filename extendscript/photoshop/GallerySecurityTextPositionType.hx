@@ -1,4 +1,4 @@
-package jsx.photoshop;
+package extendscript.photoshop;
 
 /*
  * The position of the text displayed over gallery images as an antitheft deterrent.

@@ -1,4 +1,4 @@
-package jsx.illustrator;
+package extendscript.illustrator;
 
 /*
  * This provides a means for matching the color characteristics of a PDF document.

@@ -1,4 +1,4 @@
-package jsx.illustrator;
+package extendscript.illustrator;
 
 /*
  * Options which may be supplied when exporting a document to AutoCAD formats &amp;&#35;40;.dwg or .dxf&#41;

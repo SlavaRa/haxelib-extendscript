@@ -1,4 +1,4 @@
-package jsx.photoshop;
+package extendscript.photoshop;
 
 /*
  * Deprecated for Adobe Photoshop CS3. web photo gallery security text rotation types.

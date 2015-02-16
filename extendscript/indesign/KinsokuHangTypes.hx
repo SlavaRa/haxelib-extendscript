@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * Hanging punctuation options when a kinsoku set is in effect.

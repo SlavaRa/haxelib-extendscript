@@ -1,4 +1,4 @@
-package jsx.photoshop;
+package extendscript.photoshop;
 
 /*
  * The curve &amp;&#35;40;or stretch shape&#41; to use for the distortion.

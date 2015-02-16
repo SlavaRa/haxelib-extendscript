@@ -1,4 +1,4 @@
-package jsx.indesign;
+package extendscript.indesign;
 
 /*
  * Grid defaults. Note: Applies to named, layout, and frame &amp;&#35;40;story&#41; grids.
