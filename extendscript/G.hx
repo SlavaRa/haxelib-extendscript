@@ -3,7 +3,7 @@ package extendscript;
 /*
  * The $ object provides a number of debugging facilities and informational methods.
  */
-@:native("$") extern class Helper$ {
+@:native("$") extern class G {
   /*
    * The most recent run-time error information.
    */
