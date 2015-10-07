@@ -1,6 +1,7 @@
 package extendscript;
 
 @:native("Error") extern class Error {
+  
   /*
    * Creates a new Error object.
    * @constructor
@@ -9,10 +10,12 @@ package extendscript;
    * @param {Number} [line] The line number.
    */	
   public function new(msg:String, file:String, line:Float);
+  
   /*
    * The error message.
    */
-  var description:String
+  var description:String;
+  
   /*
    * Convert this object to a string.
    */
