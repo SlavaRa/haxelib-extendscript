@@ -138,4 +138,4 @@ package extendscript;
    * Initiates garbage collection in the ExtendScript engine.
    */
   static function gc():Dynamic;
-};
+}
