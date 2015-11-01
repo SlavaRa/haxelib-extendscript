@@ -3,7 +3,7 @@ package extendscript.illustrator;
 /*
  * A collection of symbol items.
  */
-typedef SymbolItems = {
+@:native("SymbolItem") extern class SymbolItems implements ArrayAccess<SymbolItem> {
   /*
    * The object's container.
    */
@@ -30,4 +30,4 @@ typedef SymbolItems = {
    * @param {String} name undefined
    */
   function getByName(name:String):SymbolItem;
-};
+}

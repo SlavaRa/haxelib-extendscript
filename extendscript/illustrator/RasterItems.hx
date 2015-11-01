@@ -1,6 +1,6 @@
 package extendscript.illustrator;
 
-typedef RasterItems = {
+@:native("RasterItem") extern class RasterItems implements ArrayAccess<RasterItem>  {
   /*
    * The object's container.
    */
@@ -22,4 +22,4 @@ typedef RasterItems = {
    * @param {String} name undefined
    */
   function getByName(name:String):RasterItem;
-};
+}

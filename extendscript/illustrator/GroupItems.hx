@@ -3,7 +3,7 @@ package extendscript.illustrator;
 /*
  * A collection of group items.
  */
-typedef GroupItems = {
+@:native("GroupItems") extern class GroupItems implements ArrayAccess<GroupItem> {
   /*
    * The object's container.
    */
@@ -34,4 +34,4 @@ typedef GroupItems = {
    * @param {String} name undefined
    */
   function getByName(name:String):GroupItem;
-};
+}

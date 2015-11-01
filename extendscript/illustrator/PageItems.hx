@@ -3,7 +3,7 @@ package extendscript.illustrator;
 /*
  * A collection of page items.
  */
-typedef PageItems = {
+@:native("PageItems") extern class PageItems implements ArrayAccess<PageItem> {
   /*
    * The object's container.
    */
@@ -21,4 +21,4 @@ typedef PageItems = {
    * @param {String} name undefined
    */
   function getByName(name:String):PageItem;
-};
+}
