@@ -291,7 +291,7 @@ typedef Document = {
    * @param {ExportType} exportFormat The file type to export the document as.
    * @param {any} [options] Options for the file type specified.
    */
-  function exportFile(exportFile:File, exportFormat:ExportType, ?options:ExportOptionsPNG24):Void;
+  function exportFile(exportFile:File, exportFormat:ExportType, ?options:Dynamic):Void;
   /*
    * Activate the first window associated with the document.
    */
