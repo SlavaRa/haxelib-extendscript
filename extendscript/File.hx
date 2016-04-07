@@ -181,7 +181,7 @@ package extendscript;
    * @param {String} [type] In Mac OS, the type of a newly created file, a 4-character string. Ignored in Windows and UNIX.
    * @param {String} [creator] In Mac OS, the creator of a newly created file, a 4-character string. Ignored in Windows and UNIX.
    */
-  function open(mode:String, type:String, creator:String):Bool;
+  function open(mode:String, ?type:String, ?creator:String):Bool;
   /*
    * Closes this open file.
    */
